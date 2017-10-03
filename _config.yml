@@ -12,8 +12,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
-  header_text_feature_image: Resized_20160506_140813_001.jpg
+     <h1>Developer.</h1>
+  header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
@@ -22,8 +22,8 @@ theme_settings:
   email_address: tim.joy47@gmail.com
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble: ""
+  facebook: ""
   flickr:
   github: "https://github.com/timjoy"
   google_plus:
@@ -35,7 +35,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: ""
   wordpress:
   youtube:
 
