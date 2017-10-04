@@ -3,7 +3,7 @@ layout: post
 title: codingJourney
 ---
 
-It started with a local startup, a bootcamp if you will. The lady there said I would be accepted to it if I completed a certain amount of coursework before a certain date.  She sent me a link to the online coding coursework.  Depending on my goals for that week, I would get up at 2, 3, or 4:00 in the morning, make coffee, sit in front of my desktop computer, and start the python coding challenges.  I would get as much done as I could before I had to leave home for my construction job.  Then I would hit it again in the evening after dinner.  I only told two trusted co-workers what I was up to at 3:00 in the morning and why I was tired every day.  
+I think it started with a local coding bootcamp. The lady there said I would be accepted to it if I completed a certain amount of coursework before a certain date.  She sent me a link to the online coding coursework.  Depending on my goals for that week, I would get up at 2, 3, or 4:00 in the morning, make coffee, sit in front of my desktop computer, and start the python coding challenges.  I would get as much done as I could before I had to leave home for my construction job.  Then I would hit it again in the evening after dinner.  I only told two trusted co-workers what I was up to at 3:00 in the morning and why I was tired every day.  
 
 I had been a journeyman floorlayer, a journeyman carpenter,  started my own construction business, and now I was fed up.  I had reached a dead-end in how I thought about the business.  I was just done with it.  Enough is enough.   
 
